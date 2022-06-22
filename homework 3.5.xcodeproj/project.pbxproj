@@ -13,6 +13,8 @@
 		0473DD92285D2B5D002FD731 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0473DD90285D2B5D002FD731 /* Main.storyboard */; };
 		0473DD94285D2B5F002FD731 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0473DD93285D2B5F002FD731 /* Assets.xcassets */; };
 		0473DD97285D2B5F002FD731 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0473DD95285D2B5F002FD731 /* LaunchScreen.storyboard */; };
+		0473DD9F285D2BB2002FD731 /* myCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0473DD9E285D2BB2002FD731 /* myCollectionViewCell.swift */; };
+		0473DDA1285D2FCD002FD731 /* Shop.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0473DDA0285D2FCD002FD731 /* Shop.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		0473DD93285D2B5F002FD731 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0473DD96285D2B5F002FD731 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0473DD98285D2B5F002FD731 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0473DD9E285D2BB2002FD731 /* myCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = myCollectionViewCell.swift; sourceTree = "<group>"; };
+		0473DDA0285D2FCD002FD731 /* Shop.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Shop.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +67,8 @@
 				0473DD93285D2B5F002FD731 /* Assets.xcassets */,
 				0473DD95285D2B5F002FD731 /* LaunchScreen.storyboard */,
 				0473DD98285D2B5F002FD731 /* Info.plist */,
+				0473DD9E285D2BB2002FD731 /* myCollectionViewCell.swift */,
+				0473DDA0285D2FCD002FD731 /* Shop.swift */,
 			);
 			path = "homework 3.5";
 			sourceTree = "<group>";
@@ -140,6 +146,8 @@
 			files = (
 				0473DD8F285D2B5D002FD731 /* ViewController.swift in Sources */,
 				0473DD8B285D2B5D002FD731 /* AppDelegate.swift in Sources */,
+				0473DD9F285D2BB2002FD731 /* myCollectionViewCell.swift in Sources */,
+				0473DDA1285D2FCD002FD731 /* Shop.swift in Sources */,
 				0473DD8D285D2B5D002FD731 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
